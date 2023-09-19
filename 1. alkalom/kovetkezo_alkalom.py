@@ -8,4 +8,5 @@ tuple
 lista
 dict
 
+git telepítés
 """
