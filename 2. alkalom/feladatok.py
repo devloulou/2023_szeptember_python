@@ -23,6 +23,8 @@ my_str = "indul a görög aludni"
 
 my_str = "33 45 55 66 77 88 99 100"
 
+print(my_str[2::3])
+print(my_str[::3])
 
 # 5. feladat: töröljétek a www.gutenberg.org/license részt a szövegből
 # 5.1 minden 8. karaktert irassátok ki
