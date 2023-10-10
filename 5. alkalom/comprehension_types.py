@@ -77,6 +77,7 @@ gen_comp = (item for item in range(7))
 # print(next(gen_comp))
 # print(next(gen_comp))
 
+print(gen_comp)
 for item in gen_comp:
     print(item)
 
