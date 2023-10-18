@@ -15,6 +15,7 @@ A statisztikák:
 
 """
 1. meg kell nyitni a file-t és ki kell nyernünk az adatot a file-ból
-
+2. statisztikákat el kell készíteni
 
 """
+import solution

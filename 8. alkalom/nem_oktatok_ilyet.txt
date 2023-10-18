@@ -1,0 +1,6 @@
+Thread kezelést - mert a Python valójábban nem tudja a többmagos program futást
+Multiprocessinget - ez nem belépő szint
+asyncron műveletet - más mindset - elengeded a program futását és majd
+                        valahogy ellenőrzöd, hogy az végig ment e
+
+fuctional programingot - map, filter, lambda

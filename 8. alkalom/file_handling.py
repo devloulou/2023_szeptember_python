@@ -33,6 +33,6 @@ data.close()
 
 with open(file_path, "r+", encoding="utf-8") as f:
     # book = f.read()
-    book = f.readlines()
+    book = f.readlines() 
 
 print(book[0:10])
