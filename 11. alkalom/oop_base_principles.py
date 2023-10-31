@@ -38,9 +38,7 @@ class Human:
     __init__ -re akkor van szükség, ha: 
         - példányosításnál akarok értéket megadni az attribbútomoknak
         - előre definiált értéket akarsz beállítani
-
-    
-        
+       
     """
     def __init__(self, name, age, sex):
         self.name = name
@@ -50,9 +48,17 @@ class Human:
     def hello(self):
         print(f"Hello {self.name}!")
 
+    def write_txt(self):
+        with open('test.txt', 'w') as f:
+            f.write(f"{self.name}")
+
 test = Human('Ricsi', 33, 'male')
 tetst2 = Human('Jácint', 40, 'male')
 viki = Human('Viktória', 22, 'female')
+
+
+def hello(name):
+    print(f"Hello {name}!")
 
 # viki.hello()
 

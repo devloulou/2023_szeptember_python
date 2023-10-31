@@ -7,3 +7,4 @@ Private és public változókat
 
 
 """
+
