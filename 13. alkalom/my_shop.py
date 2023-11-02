@@ -18,7 +18,7 @@ def main():
 
     c.warehouse.decrease_product(b, 1)
 
-    print(c.warehouse.storage)
+    print(c.__hash__())
 
 if __name__ == '__main__':
     main()
