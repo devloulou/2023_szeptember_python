@@ -14,7 +14,7 @@ select *from employees_hr eh
  * 
  * 1. Ki keresi a legtöbbet és ki keresi a legkevesebbet a dolgozók közül?
  * 2. Melyik departmentben dolgozik a legötbb és legkevesebb ember?
- * Ha 1 ember dolgozik, azt nem számítom a legkevesebbe.
+ *  Ha 1 ember dolgozik, azt nem számítom a legkevesebbe.
  * 
  * 3. feladat: Mely régióban dolgozik a legtöbb alkalmazott?
  * Melyik ez a régió? Ez lehet 2 külön sql
