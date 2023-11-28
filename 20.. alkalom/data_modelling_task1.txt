@@ -1,0 +1,27 @@
+1. feladat: Data Modelling.xlsx-ben lévő 'Alap adat'
+fülön lévő adatokból készítsetek
+
+Logikai és Fizikai adatmodellt.
+Vizsgán plusz pontért aki megoldja,
+hogy a department és a job tábla össze legyen kötve
+
+################################################################
+2. feladat:
+Webshop adatmodelljét kellene megcsinálni.
+
+Táblák, amiket látni szeretnék:
+1. Legyen megoldva az, hogy egy terméknek van fő és alkategóriája
+2. Termékek is legyenek kezelve: meg tudjam mondani egy pl. egérről, hogy milyen fő és alkategóriája van
+és vica versa
+3. Kellene egy kosár funckiót megvalósító tábla: Ki, mikor, mit, mennyit, hány forint értékben rendelt
+
+Minden táblához tessék példaadatot és a szükséges objektumokat is létrehozni.
+Kulcsok, sequenciák stb.
+
+
+Bónusz feladat:
+Ha valaki a _hr-es táblákban megoldja azt, hogy a department össze leggyen kötve a jobs-al
+és minden szükséges egyéb módosítást is eszközöl:
+pl. kivezeti az employeeból a job-id és department_id-t
+
++10-ról indul
