@@ -1,0 +1,98 @@
+<mxfile host="65bd71144e">
+    <diagram id="v4jSxP-5sfy9OuyrIvQQ" name="Page-1">
+        <mxGraphModel dx="1667" dy="344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+                    <mxGeometry x="172.5" y="-37.5" width="342.5" height="457.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.674;entryY=0.672;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="2">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="270" y="130" as="sourcePoint"/>
+                        <mxPoint x="440" y="160" as="targetPoint"/>
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="11" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=0.178;exitY=0.091;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.183;entryY=0.909;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2" target="2">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="289.995" y="289.9950000000001" as="sourcePoint"/>
+                        <mxPoint x="442.995" y="290.66499999999996" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="12" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=0.591;exitY=0.295;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.395;entryY=0.805;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="2">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="199.995" y="229.9950000000001" as="sourcePoint"/>
+                        <mxPoint x="352.995" y="230.66499999999994" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="470" y="230"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;exitX=0.591;exitY=0.295;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="296.005" y="89.9950000000001" as="sourcePoint"/>
+                        <mxPoint x="390" y="90" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="14" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;entryX=0.066;entryY=0.968;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.062;exitY=0.037;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2" target="2">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="300" y="331" as="sourcePoint"/>
+                        <mxPoint x="443.0049999999999" y="330.66499999999996" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" value="Log generálás, applikációs logok kéészítése" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="270" y="340" width="170" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Adatok betöltése, feldolgozása adatbbázisba való integrálása, data pipeline-ok készítése" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="170" y="310" width="360" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Adatbázisba való integrálás: adatbázis oldali kialakítása, adatmodellezés, adatbázis struktúra készítése" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="240" width="270" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Data Engineer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="560" y="310" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Business Intelligence Fejlesztő" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="515" y="250" width="115" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+                    <mxGeometry x="650" y="220" width="20" height="140" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="Data Engineering" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="680" y="265" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="Adatok elemzése, tisztítása, vizsgálata, vizualizálása" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="200" width="200" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="Data Analyst" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="200" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="Machine Learning fejlesztés" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="290.63" y="150" width="106.25" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="Deep Learning Fejlessztés" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="295.64" y="100" width="96.24" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="AI fejlesztés" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="313.75" y="50" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+                    <mxGeometry x="460" y="40" width="20" height="135" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="Data Scientist&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="92.5" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="30" width="20" height="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="Data Science" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="-10" y="180" width="60" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
