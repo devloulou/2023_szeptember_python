@@ -44,7 +44,7 @@ with engine.connect() as conn:
     print(f"finished: {time.time() - start_t}")
 
 
-
+# bulk insert - tömeges insert
 start_t = time.time()
 with engine.connect() as conn:
     # :name -> bind változó -> sql-ben ennek helyére tudsz behellyettesíteni adatot
